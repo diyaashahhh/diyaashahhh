@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @diyaashahhh
 - 👀 I’m interested in exploring and experimenting with new tools and techstacks
-- 🌱 I’m currently learning FUll stack Webdev and brushing up on DSA
+- 🌱 I’m currently learning Full stack Webdev and brushing up on DSA
 - 💞️ I’m looking to collaborate on projects that help me learn and grow
 How to reach me ...
 diyatshah789@gmail.com
